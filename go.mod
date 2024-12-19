@@ -18,8 +18,8 @@ require (
 	go.mau.fi/libsignal v0.1.1-0.20240705162345-47e713a595ab // indirect
 	go.mau.fi/util v0.5.0 // indirect
 	go.mau.fi/whatsmeow v0.0.0-20240710112833-d732338c041f // indirect
-	require golang.org/x/crypto v0.31.0 // indirect
-	require golang.org/x/net v0.33.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/term v0.22.0 // indirect
 	rsc.io/qr v0.2.0 // indirect
