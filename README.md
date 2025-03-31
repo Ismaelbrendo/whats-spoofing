@@ -5,17 +5,17 @@ Reply spoofer for WhatsApp messages.
 ## Installation
 
 ```bash
-$ git clone https://github.com/Ismaelbrendo/whats-spoofing
-$ cd whats-spoofing
-$ mkdir -p data && mkdir -p db && mkdir -p history
-$ go mod download
-$ go build
+ git clone https://github.com/Ismaelbrendo/whats-spoofing
+ cd whats-spoofing
+ mkdir -p data && mkdir -p db && mkdir -p history
+ go mod download
+ go build
 ```
 
 ## Usage
 
 ```bash
-$ ./whats-spoofing
+ ./whats-spoofing
 ```
 
 Once you see a QR code on the terminal, scan it with your WhatsApp app just like when you login on WhatsApp web. \
